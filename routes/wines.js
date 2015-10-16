@@ -1,4 +1,5 @@
 var mongo = require('mongodb');
+var deneme;
 
 var Server = mongo.Server,
     Db = mongo.Db,
